@@ -13,4 +13,4 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 
 
 
-__NOTE:__ *if anyone wants to contribute he/she can send a pull request*
+__Note:__ *if anyone wants to contribute he/she can send a pull request*
