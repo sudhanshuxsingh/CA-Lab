@@ -9,7 +9,11 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 |4|Full Subtractor (Structural)|
 |5|Mux (Structural)|
 |6|Restoring div Algorithm|
-
+|7|Flip Flops|
+|8|4 bit Adder|
+|9|4 bit Subtractor|
+|10|4 bit Composit Adder|
+|11|Non-restorind div algorithm|
 
 
 
