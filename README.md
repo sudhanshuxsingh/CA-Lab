@@ -14,7 +14,7 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 |9|4 bit Subtractor|
 |10|4 bit Composit Adder|
 |11|Non-restorind div algorithm|
-
+|12|Booth's Multiplication|
 
 
 __Note:__ *if anyone wants to contribute he/she can send a pull request*
