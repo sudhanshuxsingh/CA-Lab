@@ -9,3 +9,8 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 |4|Full Subtractor (Structural)|
 |5|Mux (Structural)|
 |6|Restoring div Algorithm|
+
+
+
+
+__NOTE:__ *if anyone wants to contri. he/she can send a pull request*
