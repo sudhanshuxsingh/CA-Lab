@@ -19,7 +19,7 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 
 
 
-**LAB ASSIGNMENTS**
+**ASSIGNMENTS**
 ---
 
 1.Implementation of AND, OR, NOT, XOR, NANAD, NOR gates using Xilinx ISE.
