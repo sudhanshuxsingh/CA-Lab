@@ -20,6 +20,10 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 
 
 
+
+**Eg. for how to run these codes on EDAplayground**
+https://www.edaplayground.com/x/5g7E
+
 **ASSIGNMENTS**
 ---
 
