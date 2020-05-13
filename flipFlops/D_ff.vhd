@@ -44,6 +44,10 @@ begin
 if rising_edge(Clck) then
 	temp<=D;
 	tempn<=not D;
+--for T gf
+--if rising_edge(Clck) then
+--	temp<=not T;
+--	tempn<=not temp;
 end if;
 end process;
 Q<=temp; Qcomp<=tempn;
