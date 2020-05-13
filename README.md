@@ -9,7 +9,7 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 |4|Full Subtractor (Structural)|N.A.|
 |5|Mux (Structural)|N.A.|
 |6|Restoring div Algorithm|N.A.|
-|7|Flip Flops (T,D,JK,SR)|https://www.edaplayground.com/x/3jJS , https://www.edaplayground.com/x/3ahc|
+|7|Flip Flops (T,D,JK,SR)|https://www.edaplayground.com/x/3jJS                                    , https://www.edaplayground.com/x/3ahc|
 |8|4 bit Adder|N.A.|
 |9|4 bit Subtractor|N.A.|
 |10|4 bit Composit Adder|N.A.|
