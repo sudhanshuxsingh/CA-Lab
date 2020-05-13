@@ -37,7 +37,7 @@ end T_FF;
 -- 0  No Change
 -- 1  Toggle
 
-architecture AR1 of T_FF is
+architecture behavioral of T_FF is
 signal tQ : STD_LOGIC := '0';
 begin
 	process(CLK)
@@ -49,4 +49,4 @@ begin
 		end if;
 	end process;
 	Qnot_Q <= (not tQ) & tQ;
-end AR1;
+end behavioral;
