@@ -44,7 +44,7 @@ begin
 if rising_edge(Clck) then
 	temp<=D;
 	tempn<=not D;
---for T gf
+--for T ff
 --if rising_edge(Clck) then
 --	temp<=not T;
 --	tempn<=not temp;
