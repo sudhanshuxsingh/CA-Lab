@@ -21,8 +21,14 @@ __This Repo contains VHDL codes of CA Lab Assignments__
 
 
 
-**Eg. for how to run these codes on EDAplayground**
-https://www.edaplayground.com/x/5g7E
+**Eg. for how to run these codes on [EDAPlayground](https://www.edaplayground.com)** : https://www.edaplayground.com/x/5g7E
+
+
+**Imp. Note**
+1. All the right hand side settings should be exactly same except top entity name.
+2. Top entity name will be the first entity name of test-bench code. for e.g. if the test bench code is like`ENTITY tb_comp IS
+END tb_comp;`
+Then the top entity name will be tb_compENTITY `tb_comp`
 
 **ASSIGNMENTS**
 ---
